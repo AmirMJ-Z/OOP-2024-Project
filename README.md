@@ -1,6 +1,10 @@
 # **2024** OOP Project
-### ***Sharif University of Technology***
+## ***Sharif University of Technology***
+##Students involved in the develpment of the project
 
-+ *Amirreza Mirjalily* 402102549
+| Student Name | Student ID |
+| --- | --- |
+| *Amirreza Mirjalily* | 402102549 |
+
 
 
