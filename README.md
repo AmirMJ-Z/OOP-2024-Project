@@ -6,7 +6,7 @@
 
 > [***Trello Board Link***](https://trello.com/invite/b/UbugGn2a/ATTI5b553fdbf8647934e1ab1f9953646ba563370E56/oop-2024-project)
 
-##**Credits**
+## **Credits**
 
 Students involved in the develpment of the project
 
