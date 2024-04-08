@@ -1,6 +1,7 @@
 # **2024** OOP Project
 ## ***Sharif University of Technology***
-##Students involved in the develpment of the project
+
+Students involved in the develpment of the project
 
 | Student Name | Student ID |
 | --- | --- |
