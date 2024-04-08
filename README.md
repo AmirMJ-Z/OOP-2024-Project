@@ -2,7 +2,7 @@
 
 ![City Wars; Tokyo Region](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_CityWarsTokyoReign.jpg)
 
-***Sharif University of Technology***
+***Sharif University of Technology - Electrical Engineering Department***
 
 > [***Trello Board Link***](https://trello.com/invite/b/UbugGn2a/ATTI5b553fdbf8647934e1ab1f9953646ba563370E56/oop-2024-project)
 
