@@ -10,6 +10,12 @@ In this project we are using ***Trello*** for task management.
 
 [***Trello Board Link***](https://trello.com/invite/b/UbugGn2a/ATTI5b553fdbf8647934e1ab1f9953646ba563370E56/oop-2024-project)
 
+> **Game Design**
+
+Here is the UML Design Diagram of the classes and methods used in the design of this game.
+
+[***UML Design Diagram***](https://github.com/AmirMJ-Z/OOP-2024-Project/blob/main/UML%20class.jpeg)
+
 ## **Credits**
 
 Students involved in the develpment of the project
