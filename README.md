@@ -14,7 +14,7 @@ In this project we are using ***Trello*** for task management.
 
 Here is the UML Design Diagram of the classes and methods used in the design of this game.
 
-[***UML Design Diagram***](https://github.com/AmirMJ-Z/OOP-2024-Project/blob/main/UML%20class.jpeg?raw=true)
+[***UML Design Diagram***](https://github.com/AmirMJ-Z/OOP-2024-Project/blob/main/UML%20Diagram.jpeg?raw=true)
 
 ## **Credits**
 
