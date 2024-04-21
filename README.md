@@ -6,11 +6,13 @@
 
 > **Project Description**
 
-***City Wars; Tokyo Region*** is a CCG Game designed and developed by an independant game development company called ***Mojo Bones Ltd*** located in the U.K which has been published in August 2022.
+***City Wars; Tokyo Region*** is a CCG Turn-Based Game designed and developed by an independant game development company called ***Mojo Bones Ltd*** located in the U.K which has been published in August 2022.
 
 In this project we are trying to make our own version of the game using the power of **Object Oriented Programming** and ***Java*** as one of the most frequently used Object Oriented Programming languages.
 
 As for the graphics we will use ***JavaFX*** as a software platform designed to deliver desktop applications.
+
+The UML Design Diagram of the Classes, Methods and Attributes used are also available at the end of this document.
 
 > **Project Management**
 
