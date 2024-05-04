@@ -2,9 +2,10 @@
 
 ![City Wars; Tokyo Region](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_CityWarsTokyoReign.jpg)
 
-<img src = "https://lh3.googleusercontent.com/proxy/GjHKVFm-v7QqqkRqGKjObnegEkpGOKENcYOCpLfvCzBMCPtfENOj2_lyjMJi_cWRamH4OKRFc-AKdwoYSjepniRFRDT5fbo12xh97nXw0w" align = "top" width = "20"/> ***Sharif University of Technology - Electrical Engineering Department***
+> <img src = "Sharif Banner.png" align = "center" width = "120"/> ***Sharif University of Technology - Electrical Engineering Department*** 
 
-> **Project Description**
+
+## **Project Description**
 
 ***City Wars; Tokyo Region*** is a CCG Turn-Based Game designed and developed by an independant game development company called ***Mojo Bones Ltd*** located in the U.K which has been published in August 2022.
 
@@ -14,13 +15,13 @@ As for the graphics we will use ***JavaFX*** as a software platform designed to 
 
 The UML Design Diagram of the Classes, Methods and Attributes used are also available at the end of this document.
 
-> **Project Management**
+## **Project Management**
 
 In this project we are using ***Trello*** for task management.
 
 <img src = "https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png" align = "bottom" width = "15" />  [***Trello Board Link***](https://trello.com/invite/b/UbugGn2a/ATTI5b553fdbf8647934e1ab1f9953646ba563370E56/oop-2024-project)
 
-> **Game Design**
+## **Game Design**
 
 Here is the UML Design Diagram of the classes and methods used in the design of this game.
 
