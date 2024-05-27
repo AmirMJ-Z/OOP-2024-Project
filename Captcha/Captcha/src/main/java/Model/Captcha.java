@@ -6,6 +6,7 @@ public class Captcha {
     private int numberOfDigits;
     private int[] digits;
     private String[] lines;
+
     public Captcha(int[] digits) {
         numberOfDigits = digits.length;
         this.digits = new int[this.numberOfDigits];
@@ -59,6 +60,19 @@ public class Captcha {
 
     public String[] getLines() {
         return lines;
+    }
+
+    public boolean isValid(String input) {
+        if (input.length() != digits.length) {
+            return false;
+        }
+        for (int i=0; i<input.length(); i++) {
+            if (!Character.toString(input.charAt(i)).equals(String.valueOf(digits[i]))) {
+                return false;
+            }
+        }
+
+        return true;
     }
 
 }
