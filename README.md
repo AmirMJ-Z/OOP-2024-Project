@@ -1,13 +1,13 @@
-# **2024** OOP Project .: ***City Wars; Tokyo Region*** :.
+# **2024** OOP Project .: ***City Wars; Space Battle*** :.
 
-![City Wars; Tokyo Region](https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_CityWarsTokyoReign.jpg)
+<img src = "Logos/GameBanner.png">
 
 > <img src = "Logos/Sharif Banner.png" align = "center" width = "120"/> ***Sharif University of Technology - Electrical Engineering Department*** 
 
 
 <h2> <b> <img src = "Logos/Project Description.png" width = "25" align  = "top"> Project Description </b> </h2>
 
-***City Wars; Tokyo Region*** is a CCG Turn-Based Game designed and developed by an independant game development company called ***Mojo Bones Ltd*** located in the U.K which has been published in August 2022.
+***City Wars; Tokyo Reign*** is a CCG Turn-Based Game designed and developed by an independant game development company called ***Mojo Bones Ltd*** located in the U.K which has been published in August 2022.
 
 In this project we are trying to make our own version of the game using the power of **Object Oriented Programming** and ***Java*** as one of the most frequently used Object Oriented Programming languages.
 
@@ -35,7 +35,3 @@ Students involved in the develpment of the project
 | --- | --- |
 | *Amirreza Mirjalily* | 402102549 |
 | *Mobin Behravan* | 402101385 |
-
-
-
-
