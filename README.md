@@ -98,7 +98,7 @@ Students involved in the develpment of the project
 <img src ="Snapshots/3.png" align="center" width = 300/>
 <img src ="Snapshots/4.png" align="center" width = 300/>
 
-<p align="left">
+<p align="center">
 <img src ="Snapshots/5.png" align="center" width = 300/>
 </p>
 
