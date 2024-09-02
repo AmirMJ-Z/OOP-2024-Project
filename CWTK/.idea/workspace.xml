@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4e39721-7156-49e4-8bfe-52e91d06f152" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AdminControllers/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AdminControllers/CardDeleteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AdminControllers/CardEditController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AdminControllers/CardEditorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AdminControllers/PlayersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/CharacterSelectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/GameHistoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/GameLauncherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/GameMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/PlayMenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ScoreBoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/SecondLoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ShopControllers/CardShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ShopControllers/ShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ShopControllers/SpellShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ShopControllers/UpgradeShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/SignupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Captcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/CardDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/CardLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/Spell/CurseOfWeakening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/Spell/DevastationWave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/Spell/DiminishingTouch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/Spell/GuardiansBastion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/Spell/MirrorMimic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Card/Spell/SpellCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/CardPlaceHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/DestroyedCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/GameComparators/GameComparatorDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/GameComparators/GameComparatorLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/GameComparators/GameComparatorResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Notebook/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Notebook/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/PasswordRecoveryQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Time/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Time/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Time/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/TimeLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/UserComparators/CoinComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/UserComparators/LevelComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/asciiNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AdminMenu/AdminLoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AdminMenu/AdminMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AdminMenu/CardDeleteMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AdminMenu/CardEditMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AdminMenu/CardEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AdminMenu/DeleteConfirmationPopup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AdminMenu/EditConfirmationPopup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AdminMenu/PlayersMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/CaptchaMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/CharacterSelectMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/GameHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/GameMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/LoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/MiniMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/PasswordRecoveryMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/PlayMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Popup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/ProfileMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/RoundEnding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/ScoreBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/SecondLoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Shops/CardShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Shops/ShopMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Shops/SpellShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Shops/UpgradeShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/SignupMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Database/MainDatabase.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iY5e9s9jpPzcs6k6QngyhdEvmU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Amirr/Main Server/Java Projects/CWTK&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Amirr/Main Server/Java Projects/CWTK/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Amirr\Main Server\Java Projects\CWTK\src\main\java\model" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4e39721-7156-49e4-8bfe-52e91d06f152" name="Changes" comment="" />
+      <created>1719654764772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719654764772</updated>
+      <workItem from="1719654765838" duration="8675000" />
+      <workItem from="1719679715512" duration="5454000" />
+      <workItem from="1719747437919" duration="742000" />
+      <workItem from="1719824068382" duration="2377000" />
+      <workItem from="1719854576889" duration="1455000" />
+      <workItem from="1719906413235" duration="12244000" />
+      <workItem from="1719940593731" duration="2419000" />
+      <workItem from="1719984423042" duration="61248000" />
+      <workItem from="1720106025847" duration="7160000" />
+      <workItem from="1720130532416" duration="40000" />
+      <workItem from="1720130584756" duration="5038000" />
+      <workItem from="1720185533586" duration="9000" />
+      <workItem from="1720204590146" duration="2757000" />
+      <workItem from="1720244041655" duration="7000" />
+      <workItem from="1720256512100" duration="27261000" />
+      <workItem from="1720355763363" duration="4149000" />
+      <workItem from="1720432564706" duration="13465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/view/SignupMenu.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/view/LoginMenu.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/view/MainMenu.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/view/ProfileMenu.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/AdminControllers/AdminController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/TimeLine.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="32" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/model/Card/CardLibrary.java</url>
+          <line>54</line>
+          <properties class="model.Card.CardLibrary" method="upgradeCard">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CWTK$Main.ic" NAME="Main Coverage Results" MODIFIED="1719940298709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>view.*</FILTER>
+    </SUITE>
+  </component>
+</project>
