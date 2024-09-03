@@ -1,4 +1,4 @@
-# **2024** OOP Project .: ***City Wars; Space Battle*** :.
+<h1 align = "center"> CITY WARS : Space Battle </h1>
 
 <img src = "Logos/GameBanner.png">
 
