@@ -2,7 +2,7 @@
 
 <img src = "Logos/GameBanner.png">
 
-> <img src = "Logos/Sharif Banner.png" align = "center" width = "120"/> ***Sharif University of Technology - Electrical Engineering Department*** 
+> <img src = "Logos/Sharif Banner.png" align = "center" width = "120"/> ***Electrical Engineering Department, Sharif University of Technology*** 
 
 <h2 align = "left">
 <img src = "https://www.freeiconspng.com/thumbs/tasks-icon/tasks-icon-9.png" width = 25 align = "center"> TABLE OF CONTENTS</h2>
@@ -29,9 +29,9 @@
 
 ***City Wars; Tokyo Reign*** is a CCG Turn-Based Game designed and developed by an independant game development company called ***Mojo Bones Ltd*** located in the U.K which has been published in August 2022.
 
-In this project we are trying to make our own version of the game using the power of **Object Oriented Programming** and ***Java*** as one of the most frequently used Object Oriented Programming languages.
+In this project, we are trying to make our own version of the game using the power of **Object Oriented Programming** and ***Java*** as one of the most frequently used Object Oriented Programming languages.
 
-As for the graphics we will use ***JavaFX*** as a software platform designed to deliver desktop applications.
+As for the graphics, we will use ***JavaFX*** as a software platform designed to deliver desktop applications.
 
 The UML Design Diagram of the Classes, Methods and Attributes used are also available at the end of this document.
 
@@ -68,7 +68,7 @@ In this project we are using ***Trello*** for task management.
 
 Here is the UML Design Diagram of the classes and methods used in the design of this game.
 
-[***UML Design Diagram***](https://github.com/AmirMJ-Z/OOP-2024-Project/blob/main/UML%20Diagram.jpeg?raw=true)
+[***UML Design Diagram (High Quality)***](https://github.com/AmirMJ-Z/OOP-2024-Project/blob/main/UML%20Diagram.jpeg?raw=true)
 
 <p align  = "center">
 <a href = "#uml">
@@ -88,7 +88,7 @@ Students involved in the develpment of the project
 | *Mobin Behravan* | EE Department, SUT | 402101385 |
 
 <a href = "#project-description">
-<h2> Game Snapshots </h2>
+<h2> <img src = "./Logos/CameraLogo.png" align = "center" width = 25> Game Snapshots </h2>
 </a>
 
 <p align="center">
