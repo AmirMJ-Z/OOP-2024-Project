@@ -85,7 +85,6 @@ Students involved in the develpment of the project
 | Student Name | School | Student ID |
 | --- | --- | --- |
 | *Amirreza Mirjalily* | EE Department, SUT | 402102549 |
-| *Mobin Behravan* | EE Department, SUT | 402101385 |
 
 <a href = "#project-description">
 <h2> <img src = "./Logos/CameraLogo.png" align = "center" width = 25> Game Snapshots </h2>
